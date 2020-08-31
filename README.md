@@ -8,5 +8,5 @@ In the repo, we want to exchange experiences about new technologies, processes a
 
 
 # Events:
-- CI meeting, 25/9
+- CI meeting, 25/9: https://github.com/miroslawstaron/software_engineering_community/blob/master/CI_workshop.md
 - KPI workshop, 13/10
