@@ -1,4 +1,4 @@
-# software_engineering_community
+# Software Engineering Community
 Software Center Software Engineering Community External repo. Contains public documents, links to websites and events.
 
 ## Goal and purpose
