@@ -1,4 +1,4 @@
-# CI workshop
+# Continuous Integration (CI) workshop
 The goal of this workshop is to discuss current activities in CI, testing and code analysis. The expected outcome is to share experiences, find common activities and explore ideas for the next sprint. 
 
 We want to find out what challenges companies have in this area and how we can assist in solving these challenges. 
