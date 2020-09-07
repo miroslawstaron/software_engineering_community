@@ -10,6 +10,8 @@ We want to find out what challenges companies have in this area and how we can a
 
 Registration is free and open for all software center companies. We distribute MS Outlook (iCal) invitations and will send the link using that channel. 
 
+**Please register here**: https://choodle.portal.chalmers.se/FBwMYPlnRehtlwRI
+
 # Content - what we want to talk about
 * CI testing and ML
 * Finding flaky tests using ML
