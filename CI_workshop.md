@@ -5,8 +5,11 @@ We want to find out what challenges companies have in this area and how we can a
 
 # Date and time
 **Date**: 25/9
+
 **Time**: 10.00 - 12.00
+
 **Place**: MS Teams, link will be distributed to the registered participants. 
+
 
 Registration is free and open for all software center companies. We distribute MS Outlook (iCal) invitations and will send the link using that channel. 
 
