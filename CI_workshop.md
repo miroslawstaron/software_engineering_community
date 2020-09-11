@@ -1,4 +1,4 @@
-# Continuous Integration (CI) workshop
+# Continuous Integration (CI) and Continuous Deployment (CD) workshop
 The goal of this workshop is to discuss current activities in CI, testing and code analysis. The expected outcome is to share experiences, find common activities and explore ideas for the next sprint. 
 
 We want to find out what challenges companies have in this area and how we can assist in solving these challenges. 
@@ -14,6 +14,7 @@ We want to find out what challenges companies have in this area and how we can a
 Registration is free and open for all software center companies. We distribute MS Outlook (iCal) invitations and will send the link using that channel. 
 
 **Please register here**: https://choodle.portal.chalmers.se/FBwMYPlnRehtlwRI
+IMPORTANT! please write your e-mail address when registering!
 
 # Content - what we want to talk about
 * CI testing and ML
