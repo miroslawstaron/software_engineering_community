@@ -17,9 +17,9 @@ Registration is free and open for all software center companies. We distribute M
 IMPORTANT! please write your e-mail address when registering!
 
 # Content - what we want to talk about
-* CI testing and ML
-* Finding flaky tests using ML
+* CI testing and ML (Finding flaky tests using ML)
 * Using ML to prioritize CI flow activities (e.g. which static analysis checks to use)
+* Managing models in the CI pipeline
 
 # Ideas for the next workshops
 For the next workshop we plan to organize a virtual Hackathon, ideas are more than welcome. 
