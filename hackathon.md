@@ -12,7 +12,7 @@ The Hackathon is organized in two half-days, where the channel is open and where
 
 Schedule: 
 Day 1: 
-8.30 - 9.00: Introduction of the topics and the teams
+8.30 - 9.00: Introduction of the topics and the teams</br>
 9.00 - 11.15: Teams working on the topics
 11.15 - 12.00: Each team presents 1-2 slides about their current state of the solution, technology used, etc. 
 
