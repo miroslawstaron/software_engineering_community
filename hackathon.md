@@ -37,8 +37,8 @@ All teams are allowed to use the technology of their choosing, with the followin
 
 ## How to apply
 Applications are welcome from all Software Center companies and universities. 
-* if you already have a team, please apply here: <LINK>
-* if you are alone and would like to join a team, please apply here: <SEPARATE LINK>; please specify your skills so that we can do a good match. 
+* if you already have a team, please apply here: https://choodle.portal.chalmers.se/OUoM67QRj2WjTfUL
+* if you are alone and would like to join a team, please apply here: https://choodle.portal.chalmers.se/3G7mFakzbhl31SI5, please specify your skills so that we can do a good match. 
 
 If you have a team, but lack someone with a specific skillset, please let us know and we will try to help you. 
 
