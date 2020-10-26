@@ -2,6 +2,10 @@
 
 This year, we organize a virtual Hackathon for all software center companies and universities. The goal is to work together and learn from each other, at the same time setting up toolchains that can be used in research projects outside of companies' premises. 
 
+## Dates
+Day 1: 2020-11-26: 8.30 - 12.00
+Day 2: 2020-11-27: 8.30 - 12.00
+
 ## Task for the Hackathon
 <ol>
   <li>Set-up a generic pipeline for CI and containerize it, to work with flaky tests and other CI tools</li>
