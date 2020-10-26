@@ -2,6 +2,8 @@
 
 This year, we organize a virtual Hackathon for all software center companies and universities. The goal is to work together and learn from each other, at the same time setting up toolchains that can be used in research projects outside of companies' premises. 
 
+In this Hackathon, the focus is on the container technology, measurement and visualization. 
+
 ## Dates
 Day 1: 2020-11-26: 8.30 - 12.00 <br/>
 Day 2: 2020-11-27: 8.30 - 12.00
@@ -10,9 +12,11 @@ Day 2: 2020-11-27: 8.30 - 12.00
 <ol>
   <li>Download Docker Desktop and one of the CI tools, e.g. Jenkins (https://hub.docker.com/r/jenkins/jenkins) </li>
   <li>Choose a product or create your own product that you can build and test using this pipeline.</li>
-  <li>If you want to choose an OSS project, please consider the following:
+  <li>You can also choose an OSS project which you like, we suggest some of the following (not a requirement):
     <ul>
       <li>Visual Studio Code editor: https://github.com/microsoft/vscode/wiki/How-to-Contribute#build-and-run</li>
+      <li>JUnit: https://github.com/junit-team/junit5<li/>
+      <li>Notepad++: https://github.com/notepad-plus-plus/notepad-plus-plus/blob/master/BUILD.md</li>
     </ul>
   </li>
 </ol>
